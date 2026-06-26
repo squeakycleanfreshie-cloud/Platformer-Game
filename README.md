@@ -6,6 +6,7 @@ I made this during the horizons cruz godot workshop, and I learned lots of fun s
 
 ## How to play
 Click this link: https://remymorea.itch.io/knight-platformer
+Controls: WASD or Arrow Keys
 
 ## Features
 Features one level or continuous levels, and diferent appearance biomes.
