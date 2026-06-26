@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://vtcc0m31s73r"]
+
+[ext_resource type="Texture2D" uid="uid://bny5jat7f20gk" path="res://brackeys_platformer_assets/sprites/world_tileset.png" id="1_64nw0"]
+
+[node name="sign" type="Area2D" unique_id=1706761799]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1946265580]
+texture = ExtResource("1_64nw0")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=756372435]
+
+[node name="Label" type="Label" parent="." unique_id=1284697193]
+offset_right = 45.0
+offset_bottom = 43.0
+metadata/_edit_use_anchors_ = true
