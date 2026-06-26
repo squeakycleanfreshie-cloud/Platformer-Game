@@ -1,1 +1,11 @@
 # Platformer-Game
+A simple one screen, scrolling platformer. All levels designed by me, assets made by brakeyes asset pack.
+
+## Why I made this?
+I made this during the horizons cruz godot workshop, and I learned lots of fun stuff
+
+## How to play
+Click this link: https://remymorea.itch.io/knight-platformer
+
+## Features
+Features one level or continuous levels, and diferent appearance biomes.
